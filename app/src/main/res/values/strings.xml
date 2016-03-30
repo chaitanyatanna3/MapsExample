@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapsExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="go">Go</string>
+    <string name="place">Where do you want to go?</string>
+    <string name="none">None</string>
+    <string name="normal">Normal</string>
+    <string name="terrain">Terrain</string>
+    <string name="satellite">Satellite</string>
+    <string name="hybrid">Hybrid</string>
+</resources>
